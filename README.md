@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning machine learning and bioinformatics!
 - 📫 How to reach me: hasbanny.irisson@gmail.com
-- ⚡ Fun fact: I love baking and emboridering!
+- ⚡ Fun fact: I love baking and embroidering!
 -->
